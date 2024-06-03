@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HelloReq {
+  string name = 1;
+}
